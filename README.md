@@ -18,6 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 ### App screens
 
 #### List of Tasks Screen
-<img src="appscreenshots/listoftaskScreen.jpeg" alt="List of Tasks Screen" width="160" height="260">
+<img src="appscreenshots/listoftasksScreen.jpeg" alt="List of Tasks Screen" width="160" height="260">
 
  **Next click on the add button to create new task**
