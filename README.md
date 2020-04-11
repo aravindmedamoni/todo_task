@@ -17,7 +17,9 @@ samples, guidance on mobile development, and a full API reference.
 
 ### App screens
 
-#### List of Tasks Screen
-<img src="appscreenshots/listoftasksScreen.jpeg" alt="List of Tasks Screen" width="160" height="260"> ! <img src="appscreenshots/listoftasksScreen.jpeg" alt="List of Tasks Screen" width="160" height="260">
+
+#### list of tasks screen      | #### create new task screen            | #### edit screen
+<img src="appscreenshots/listoftasksScreen.jpeg" alt="List of Tasks Screen" width="160" height="260">  <img src="appscreenshots/taskcreatescreen.jpeg" alt="List of Tasks Screen" width="160" height="260"> <img src="appscreenshots/editscreen.jpeg" alt="List of Tasks Screen" width="160" height="260">
 
  **Next click on the add button to create new task**
+ **next click on the task to edit**
