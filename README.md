@@ -32,7 +32,8 @@ A few resources to get you started if this is your first Flutter project:
 
 ### Our Project Dependencies:
 
-1. ###### I'm using Hive Database for storing the todo's   
+1. [android studio](https://developer.android.com/studio) or [vs code](https://code.visualstudio.com/)
+2. I'm using Hive Database for storing the todo's   
 
     1. [hive](https://pub.dev/packages/hive#-readme-tab-) Hive is a lightweight and blazing fast key-value database written in pure Dart. By using this package we can perform the database operations.
     2. [hive_flutter](https://pub.dev/packages/hive_flutter) package it gives the support to hive package.
