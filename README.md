@@ -29,7 +29,7 @@ delete todo alert|exit the app alert
 
 
 ##### Install the app,test yourself and feel free to comment
-[apk](build/app/outputs/apk/app.apk) link
+[apk](build/app/outputs/apk/) link
 
 
 # Technology stack 
